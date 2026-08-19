@@ -2,9 +2,9 @@
 // 1. МУЗЫКА И ГИФКИ ДЛЯ ПЛЕЕРА:
 // ==========================================
 const songs = [
-    { name: "Kai Angel", url: "https://soundcloud.com/kaiangel-9mice/amy-3?si=e36f08a0fa0b494988901412991e76e4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" },
-    { name: "Tewiq", url: "https://on.soundcloud.com/dSR4QGZvFI2akZNfVX" },
-    { name: "Greyrock", url: "https://soundcloud.com/wwwwxx/gifts?si=33014798dd9c4826b2eede34987af631&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" }
+    { name: "Kai Angel", url: "amy.mp3" },
+    { name: "Vampire", url: "vampire.mp3" },
+    { name: "Greyrock", url: "dary.mp3" }
 ];
 
 const catGifs = [
